@@ -1,6 +1,6 @@
 [//]: # (Hello welcome to my project 
   This project is already uploaded to my GitHub Account where I have deployed this project
-  You can find the project here: https://github.com/Kumar-laxmi/Stock-Prediction-System-Application
+  You can find the project here: https://github.com/IamShubham26/Minor-project-stock-prediction-final.githttps://github.com/IamShubham26/Minor-project-stock-prediction-final.git
 )
 
 <img src="./app/static/image/banner.png" alt="STOCK MARKET PREDICTION">
@@ -86,7 +86,7 @@
 ## Project Installation:
 **STEP 1:** Clone the repository from GitHub.
 ```bash
-  git clone https://github.com/Kumar-laxmi/Stock-Prediction-System-Application.git
+  git clone https://github.com/IamShubham26/Minor-project-stock-prediction-final.git
 ```
 
 **STEP 2:** Change the directory to the repository.
